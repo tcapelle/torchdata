@@ -1,0 +1,6 @@
+# Python dependencies for torchdata
+torch>=1.11
+torchdata>=0.3
+matplotlib
+fastcore
+pandas
